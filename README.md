@@ -1,6 +1,6 @@
 # *capricoinsight*
 
-*capricoinsight* is an open-source Reddcoin blockchain explorer with complete REST and websocket APIs.
+*capricoinsight* is an open-source Capricoin blockchain explorer with complete REST and websocket APIs.
 capricoinsight runs in NodeJS, uses AngularJS for the front-end and LevelDB for storage.
 
 Check some screenshots and more details at [capricoinsight's project homepage](https://bitbucket.org/mmitech/capricoinsight).
